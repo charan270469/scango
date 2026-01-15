@@ -1,0 +1,8 @@
+{
+  "name": "ScanGo",
+  "description": "ScanGo self-checkout application featuring barcode scanning, real-time queue optimization for cash payments, and secure QR-based cashier verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
