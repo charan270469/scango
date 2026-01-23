@@ -1,6 +1,5 @@
 # 🚀 ScanGo  
-### Zero-Queue, Smartphone-Powered Self-Checkout  
-**Microsoft Imagine Cup 2026**
+### Zero-Queue, Smartphone-Powered Self-Checkout
 
 🌐 **Live Website:** https://scangoo.netlify.app  
 
@@ -13,18 +12,6 @@
 Built for **Microsoft Imagine Cup 2026**, ScanGo eliminates one of retail’s biggest pain points: **queues**.
 
 > _“We’re not eliminating queues. We’re eliminating the need for them.”_
-
----
-
-## 👥 Team
-
-**Team Name:** Chokers  
-
-**Members:**
-- **Charan** – Frontend Developer & UI/UX  
-- **Sohan** – Backend Developer & Database Architect  
-- **Rithivkesh** – Full-Stack Developer & System Architect  
-- **Abbrarullah** – Mobile Developer & Security Specialist  
 
 ---
 
