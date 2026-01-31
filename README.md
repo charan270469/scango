@@ -145,11 +145,3 @@ Faster shopping. Lower costs. Happier customers.
 
 **Retail, without the wait.**
 
----
-
-### 📬 Contact
-
-**Team Chokers**  
-Microsoft Imagine Cup 2026  
-
-⭐ If you like the project, don’t forget to **star** and **share**!
